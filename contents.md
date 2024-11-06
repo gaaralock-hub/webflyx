@@ -1,1 +1,1 @@
-echo "# contents"
+# contents
